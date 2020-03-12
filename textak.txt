@@ -1,1 +1,1 @@
-Ahoj, tohle bude můj první commit.
+Ahoj, tohle bude můj druhý commit.
